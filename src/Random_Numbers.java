@@ -8,7 +8,7 @@ public class Random_Numbers {
 }
 
 /*
-For Windows users, you must first install WSL in administrator PowerShell.
+For Windows users, you must first install WSL in administrator PowerShell: wsl --install
 For Mac users, everything just works in the Terminal Window.
  */
 
