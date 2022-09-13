@@ -8,6 +8,11 @@ public class Random_Numbers {
 }
 
 /*
+For Windows users, you must first install WSL in administrator PowerShell.
+For Mac users, everything just works in the Terminal Window.
+ */
+
+/*
 for ((i = 0; i < 100; i++))
 do java -cp out/production/starter-exercise-random-numbers Random_Numbers
 done > rand_num.dat
